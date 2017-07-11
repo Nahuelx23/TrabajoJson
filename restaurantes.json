@@ -10,7 +10,7 @@
 		"nombre":"Osteria Francescana",
 		"ciudad": "Modena",
 		"pais":"Italia",
-		"comida":"italiana contemporánea",
+		"comida":"Italiana contemporánea",
 		"url":"http://www.osteriafrancescana.it/index.php"
 	},
 	{
@@ -41,6 +41,6 @@
 		"comida":"Parrilla",
 		"url":"http://asadoretxebarri.com/es/"
 	}
-	
+
 ]
 }

@@ -2,16 +2,17 @@
 	
 	width: 1200px;
 	text-align:center;
+	margin: 0 auto;
+}
+
+h2{
 	font-family: 'Varela Round', sans-serif;
 }
 
 
-#tblRestaurant {
-	
-margin-left: auto;
-	margin-right: auto;
+#ContRestaurant {
+	margin: 0 auto;
 	width: 1050px;
-	height: auto;
 }
 
 td, th {
@@ -20,4 +21,8 @@ td, th {
 	background-color: #f7f9f3;
 	text-align: center;
 	font-family: 'Varela Round', sans-serif;
+}
+
+tr,th{
+	background-color: #14C184;
 }
